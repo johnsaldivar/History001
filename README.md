@@ -23,3 +23,6 @@ Professor Steve Wardinski
 ## By
 
 John F. Saldivar Alarcon
+
+![Logo](https://redshelf-images.s3-external-1.amazonaws.com/label_banner/ELAC-Logo-Green-Background-Type_Bb1vwsD.jpg)
+
